@@ -1,7 +1,1 @@
-# MCP Demo Repository
-
-This repository was created as a demonstration of GitHub tools available through Model Context Protocol (MCP).
-
-## About
-- Created on: Wednesday, January 01, 2025
-- Purpose: Showcase GitHub repository interactions
+IyBNQ1AgRGVtbyBSZXBvc2l0b3J5CgpUaGlzIHJlcG9zaXRvcnkgd2FzIGNyZWF0ZWQgYXMgYSBkZW1vbnN0cmF0aW9uIG9mIEdpdEh1YiB0b29scyBhdmFpbGFibGUgdGhyb3VnaCBNb2RlbCBDb250ZXh0IFByb3RvY29sIChNQ1ApLgoKIyMgQWJvdXQKLSBDcmVhdGVkIG9uOiBXZWRuZXNkYXksIEphbnVhcnkgMDEsIDIwMjUKLSBQdXJwb3NlOiBTaG93Y2FzZSBHaXRIdWIgcmVwb3NpdG9yeSBpbnRlcmFjdGlvbnM=
